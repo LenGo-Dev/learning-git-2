@@ -1,0 +1,8 @@
+Run with:
+npm exec html-validate yourfile.html
+
+'-f. --formattre'
+html-validate --formatter stylish index.html
+
+'--dump-tree'
+html-validate --dump-tree file.html
